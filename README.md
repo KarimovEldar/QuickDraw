@@ -12,4 +12,15 @@
 
 ### ✨ Features
 - ViewBinding for UI interactions  
-- Intent for navigation between screens
+- Custom DrawingView for freehand drawing
+- Import images from the gallery as a background
+- Save drawings to external storage
+### 🛠️ Technologies Used
+- Canvas API
+- Coroutines for async operations
+- MediaStore API for saving images
+
+### 📜 Permissions
+#### This app requires the following permissions:
+- READ_EXTERNAL_STORAGE – To import images from the gallery.
+- WRITE_EXTERNAL_STORAGE – To save drawings (for Android versions below Q).
