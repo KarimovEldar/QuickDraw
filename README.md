@@ -15,7 +15,7 @@
 - Custom DrawingView for freehand drawing
 - Import images from the gallery as a background
 - Save drawings to external storage
-### 🛠️ Technologies Used
+### 🛠️ Technologies
 - Canvas API
 - Coroutines for async operations
 - MediaStore API for saving images
