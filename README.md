@@ -7,7 +7,7 @@
 ### 📱 Screenshot
 <table>
     <th> Screen</th>
-    <td><img src="https://github.com/user-attachments/assets/e9d23633-750c-4d83-af51-5146f5966851" width="250"></td>
+    <td><img src="![image](https://github.com/user-attachments/assets/385a2e48-2cdb-46a1-add2-e256d6ede47e)" width="250"></td>
 </table>
 
 ### ✨ Features
