@@ -24,3 +24,4 @@
 #### This app requires the following permissions:
 - READ_EXTERNAL_STORAGE – To import images from the gallery.
 - WRITE_EXTERNAL_STORAGE – To save drawings (for Android versions below Q).
+https://vimeo.com/1059115776
