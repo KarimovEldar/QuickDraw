@@ -26,4 +26,4 @@
 - WRITE_EXTERNAL_STORAGE – To save drawings (for Android versions below Q).
 
 ### Demo Video
-- **Watch the demo video for this project** [here]([https://vimeo.com/1059115776](https://player.vimeo.com/video/1059115776?h=96bd59b85d)).
+- **Watch the demo video for this project** [here](https://player.vimeo.com/video/1059115776?h=96bd59b85d).
