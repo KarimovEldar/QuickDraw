@@ -23,7 +23,7 @@
 ### 📜 Permissions
 #### This app requires the following permissions:
 - READ_EXTERNAL_STORAGE – To import images from the gallery.
-- WRITE_EXTERNAL_STORAGE – To save drawings (for Android versions below Q).
+- WRITE_EXTERNAL_STORAGE – To save drawings.
 
 ### Demo Video
 - **Watch the demo video for this project** [here](https://player.vimeo.com/video/1059115776?h=96bd59b85d).
